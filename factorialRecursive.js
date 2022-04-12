@@ -8,3 +8,10 @@ function factorial(num){
 }
 var result = factorial(3);
 console.log(result);
+
+function fibonacci(){
+    fibo = "emon";
+    return fibo;
+}
+var result = fibonacci();
+console.log(result);
