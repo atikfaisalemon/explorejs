@@ -5,5 +5,5 @@ function factorial(num){
     }
     return factorial;
 }
-var result = factorial(3);
+var result = factorial(7);
 console.log(result);
