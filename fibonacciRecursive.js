@@ -2,7 +2,7 @@ function fibonacci(num){
 if ( num == 0){
     return 0;
 }
-if ( num == 1){
+else if ( num == 1){
     return 0;
 }
 else{
@@ -10,5 +10,5 @@ else{
 }
 }
 
-var result = fibonacci(1);
+var result = fibonacci(12);
 console.log(result);
